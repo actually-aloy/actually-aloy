@@ -14,6 +14,8 @@
 
 <p align="center">Iran-based, building Windows desktop tools mostly for myself — then sharing them anyway 🎀</p>
 
+<p align="center">mood: tinkering ( •ᴗ•ᴗ• )</p>
+
 <p align="center">
   <a href="https://actually-aloy.github.io/site">
     <img src="https://img.shields.io/badge/my%20website%20%E2%9C%A6-E8A0BF?style=for-the-badge&logoColor=white&labelColor=C9A7EB" alt="visit my website" />
@@ -32,6 +34,12 @@
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=actually-aloy&color=E8A0BF&style=for-the-badge&label=VISITORS)
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=actually-aloy&theme=juicyfresh&no-frame=true&row=1&column=6" alt="trophies" />
 
 </div>
 
