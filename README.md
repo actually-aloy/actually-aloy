@@ -1,12 +1,24 @@
-# hey, I'm Aloy 😸
+<div align="center">
 
-Gamer. Vibe coding. Cat lover.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=460&lines=hey%2C+I'm+Aloy+%F0%9F%98%B8;Gamer.+Vibe+coding.+Cat+lover.;Building+Windows+tools+for+myself." alt="Typing SVG" />
+
+</div>
 
 Iran-based, building Windows desktop tools mostly for myself — then sharing them anyway.
 
-- 🌐 my corner of the internet: [actually-aloy.github.io/site](https://actually-aloy.github.io/site)
+🌐 my corner of the internet: [actually-aloy.github.io/site](https://actually-aloy.github.io/site)
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/actually_aloy)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JqrBUYEM8n)
+[![Bale](https://img.shields.io/badge/Bale-messenger-3EC1F3?style=for-the-badge&logo=messenger&logoColor=white)](https://ble.ir/join/A3w5BnSfAR)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/part-izan.bsky.social)
+
+</div>
 
 ### apps
+
 | repo | what it does |
 |---|---|
 | [aloys-multitool](https://github.com/actually-aloy/aloys-multitool) | network, system & productivity tools in one sleek app |
@@ -17,5 +29,25 @@ Iran-based, building Windows desktop tools mostly for myself — then sharing th
 
 built by me, for me, shared anyway.
 
-### find me elsewhere
-[Telegram](https://t.me/actually_aloy) · [Discord](https://discord.gg/JqrBUYEM8n) · [Bale](https://ble.ir/join/A3w5BnSfAR) · [Bluesky](https://bsky.app/profile/part-izan.bsky.social)
+### built with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,windows" alt="skills" />
+
+</div>
+
+### stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=actually-aloy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=actually-aloy&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actually-aloy&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+
+</div>
