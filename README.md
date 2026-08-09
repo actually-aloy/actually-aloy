@@ -23,13 +23,6 @@ Iran-based, building Windows desktop tools mostly for myself — then sharing th
 
 </div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/actually-aloy/actually-aloy/output/github-snake-dark.svg#gh-dark-mode-only" alt="snake animation" />
-<img src="https://raw.githubusercontent.com/actually-aloy/actually-aloy/output/github-snake.svg#gh-light-mode-only" alt="snake animation" />
-
-</div>
-
 ### apps
 
 | repo | what it does |
