@@ -51,6 +51,17 @@
 
 <p align="center">˚₊‧───────────────‧₊˚ 🐈 ˚₊‧───────────────‧₊˚</p>
 
+### 🎀 stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=actually-aloy&show_icons=true&theme=transparent&hide_border=true&title_color=E8A0BF&icon_color=C9A7EB&text_color=6B4C6E&ring_color=C9A7EB" alt="github stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actually-aloy&layout=compact&theme=transparent&hide_border=true&title_color=E8A0BF&text_color=6B4C6E&langs_count=6" alt="top languages" height="165" />
+
+</div>
+
+<p align="center">˚₊‧───────────────‧₊˚ 🐈 ˚₊‧───────────────‧₊˚</p>
+
 ### 🎀 built with
 
 <div align="center">
@@ -60,3 +71,7 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:FFD1DC&height=100&section=footer" alt="footer banner" />
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/actually-aloy/actually-aloy?style=for-the-badge&color=E8A0BF&label=last%20updated&labelColor=C9A7EB" alt="last updated" />
+</p>
