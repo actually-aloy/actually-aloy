@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://actually-aloy.github.io/site">
-    <img src="https://img.shields.io/badge/take%20a%20look%20around-E8A0BF?style=for-the-badge&logoColor=white&labelColor=C9A7EB" alt="visit my website" />
+    <img src="https://img.shields.io/badge/my%20website%20%E2%9C%A6-E8A0BF?style=for-the-badge&logoColor=white&labelColor=C9A7EB" alt="visit my website" />
   </a>
 </p>
 
