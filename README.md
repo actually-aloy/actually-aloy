@@ -6,17 +6,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8A0BF&center=true&vCenter=true&width=460&lines=hey%2C+I'm+Aloy+%F0%9F%90%BE;gamer+%E2%80%A2+vibe+coder+%E2%80%A2+cat+lover;building+little+windows+tools+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8A0BF&center=true&vCenter=true&width=460&lines=hey%2C+I'm+Aloy;gamer+%E2%80%A2+vibe+coder+%E2%80%A2+cat+lover;building+little+windows+tools" alt="Typing SVG" />
 
 </div>
 
-<p align="center">🐾 ⋆｡°✩ ⋆⁺｡˚ 𐙚 ˚｡⋆ ✩°｡⋆ 🐾</p>
-
-<p align="center">Iran-based, building Windows desktop tools mostly for myself — then sharing them anyway 🎀</p>
+<p align="center">Iran-based, building Windows desktop tools mostly for myself — then sharing them anyway.</p>
 
 <p align="center">
   <a href="https://actually-aloy.github.io/site">
-    <img src="https://img.shields.io/badge/⛏️_VISIT_MY_WORLD-7CB342?style=for-the-badge&logoColor=white&labelColor=5D8A34" alt="visit my website" />
+    <img src="https://img.shields.io/badge/take%20a%20look%20around-E8A0BF?style=for-the-badge&logoColor=white&labelColor=C9A7EB" alt="visit my website" />
   </a>
 </p>
 
@@ -35,9 +33,7 @@
 
 </div>
 
-<p align="center">⛏️ 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 ⛏️</p>
-
-### 🎀 apps
+### apps
 
 | repo | what it does |
 |---|---|
@@ -47,11 +43,9 @@
 | [aloys-youtube-downloader](https://github.com/actually-aloy/aloys-youtube-downloader) | paste a link, pick a format, download — no install needed |
 | [site](https://github.com/actually-aloy/site) | my personal website |
 
-<p align="center">built by me, for me, shared anyway 🐾</p>
+<p align="center">built by me, for me, shared anyway.</p>
 
-<p align="center">⛏️ 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 ⛏️</p>
-
-### 🎀 built with
+### built with
 
 <div align="center">
 
