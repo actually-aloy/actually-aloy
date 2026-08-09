@@ -1,35 +1,39 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=150&section=header&text=Aloy&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:C9A7EB&height=150&section=header&text=Aloy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header banner" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=460&lines=hey%2C+I'm+Aloy+%F0%9F%98%B8;Gamer.+Vibe+coding.+Cat+lover.;Building+Windows+tools+for+myself." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8A0BF&center=true&vCenter=true&width=460&lines=hey%2C+I'm+Aloy+%F0%9F%90%BE;gamer+%E2%80%A2+vibe+coder+%E2%80%A2+cat+lover;building+little+windows+tools+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
-Iran-based, building Windows desktop tools mostly for myself — then sharing them anyway.
+<p align="center">🐾 ⋆｡°✩ ⋆⁺｡˚ 𐙚 ˚｡⋆ ✩°｡⋆ 🐾</p>
 
-🌐 my corner of the internet: [actually-aloy.github.io/site](https://actually-aloy.github.io/site)
+<p align="center">Iran-based, building Windows desktop tools mostly for myself — then sharing them anyway 🎀</p>
+
+<p align="center">🌐 my corner of the internet: <a href="https://actually-aloy.github.io/site">actually-aloy.github.io/site</a></p>
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/actually_aloy)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JqrBUYEM8n)
-[![Bale](https://img.shields.io/badge/Bale-messenger-3EC1F3?style=for-the-badge&logo=messenger&logoColor=white)](https://ble.ir/join/A3w5BnSfAR)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/part-izan.bsky.social)
+[![Telegram](https://img.shields.io/badge/Telegram-FFD1DC?style=for-the-badge&logo=telegram&logoColor=6B4C6E)](https://t.me/actually_aloy)
+[![Discord](https://img.shields.io/badge/Discord-C9A7EB?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/JqrBUYEM8n)
+[![Bale](https://img.shields.io/badge/Bale-B5EAD7?style=for-the-badge&logo=messenger&logoColor=4A6C63)](https://ble.ir/join/A3w5BnSfAR)
+[![Bluesky](https://img.shields.io/badge/Bluesky-A7C7E7?style=for-the-badge&logo=bluesky&logoColor=2C4870)](https://bsky.app/profile/part-izan.bsky.social)
 
 </div>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=actually-aloy&color=A78BFA&style=for-the-badge&label=VISITORS)
+![Profile views](https://komarev.com/ghpvc/?username=actually-aloy&color=E8A0BF&style=for-the-badge&label=VISITORS)
 
 </div>
 
-### apps
+<p align="center">˚₊‧───────────────‧₊˚ 🐈 ˚₊‧───────────────‧₊˚</p>
+
+### 🎀 apps
 
 | repo | what it does |
 |---|---|
@@ -39,14 +43,16 @@ Iran-based, building Windows desktop tools mostly for myself — then sharing th
 | [aloys-youtube-downloader](https://github.com/actually-aloy/aloys-youtube-downloader) | paste a link, pick a format, download — no install needed |
 | [site](https://github.com/actually-aloy/site) | my personal website |
 
-built by me, for me, shared anyway.
+<p align="center">built by me, for me, shared anyway 🐾</p>
 
-### built with
+<p align="center">˚₊‧───────────────‧₊˚ 🐈 ˚₊‧───────────────‧₊˚</p>
+
+### 🎀 built with
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,windows" alt="skills" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,windows&theme=light" alt="skills" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=100&section=footer" alt="footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A7EB,100:FFD1DC&height=100&section=footer" alt="footer banner" />
