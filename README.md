@@ -14,7 +14,11 @@
 
 <p align="center">Iran-based, building Windows desktop tools mostly for myself — then sharing them anyway 🎀</p>
 
-<p align="center">🌐 my corner of the internet: <a href="https://actually-aloy.github.io/site">actually-aloy.github.io/site</a></p>
+<p align="center">
+  <a href="https://actually-aloy.github.io/site">
+    <img src="https://img.shields.io/badge/⛏️_VISIT_MY_WORLD-7CB342?style=for-the-badge&logoColor=white&labelColor=5D8A34" alt="visit my website" />
+  </a>
+</p>
 
 <div align="center">
 
@@ -31,7 +35,7 @@
 
 </div>
 
-<p align="center">˚₊‧───────────────‧₊˚ 🐈 ˚₊‧───────────────‧₊˚</p>
+<p align="center">⛏️ 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 ⛏️</p>
 
 ### 🎀 apps
 
@@ -45,7 +49,7 @@
 
 <p align="center">built by me, for me, shared anyway 🐾</p>
 
-<p align="center">˚₊‧───────────────‧₊˚ 🐈 ˚₊‧───────────────‧₊˚</p>
+<p align="center">⛏️ 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 ⛏️</p>
 
 ### 🎀 built with
 
