@@ -41,13 +41,13 @@ built by me, for me, shared anyway.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=actually-aloy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=actually-aloy&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=actually-aloy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+<img src="https://streak-stats.demolab.com/?user=actually-aloy&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=actually-aloy&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=actually-aloy&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
 </div>
