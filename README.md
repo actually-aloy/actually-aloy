@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=150&section=header&text=Aloy&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+
+</div>
+
+<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=460&lines=hey%2C+I'm+Aloy+%F0%9F%98%B8;Gamer.+Vibe+coding.+Cat+lover.;Building+Windows+tools+for+myself." alt="Typing SVG" />
 
 </div>
@@ -42,3 +48,5 @@ built by me, for me, shared anyway.
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,windows" alt="skills" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=100&section=footer" alt="footer banner" />
