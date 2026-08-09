@@ -36,18 +36,3 @@ built by me, for me, shared anyway.
 <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,windows" alt="skills" />
 
 </div>
-
-### stats
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=actually-aloy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://streak-stats.demolab.com/?user=actually-aloy&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=actually-aloy&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-
-</div>
