@@ -20,7 +20,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-FFD1DC?style=for-the-badge&logo=telegram&logoColor=6B4C6E)](https://t.me/actually_aloy)
 [![Discord](https://img.shields.io/badge/Discord-C9A7EB?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.gg/JqrBUYEM8n)
 [![Bale](https://img.shields.io/badge/Bale-B5EAD7?style=for-the-badge&logo=messenger&logoColor=4A6C63)](https://ble.ir/join/A3w5BnSfAR)
-[![Bluesky](https://img.shields.io/badge/Bluesky-A7C7E7?style=for-the-badge&logo=bluesky&logoColor=2C4870)](https://bsky.app/profile/part-izan.bsky.social)
+[![GitHub](https://img.shields.io/badge/GitHub-A7C7E7?style=for-the-badge&logo=github&logoColor=2C4870)](https://github.com/actually-aloy)
 
 </div>
 
