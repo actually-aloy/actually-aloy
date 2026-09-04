@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8A0BF&center=true&vCenter=true&width=460&lines=hey%2C+I'm+Aloy+%F0%9F%90%BE;gamer+%E2%80%A2+vibe+coder+%E2%80%A2+cat+lover;building+little+windows+tools+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E8A0BF&center=true&vCenter=true&width=500&lines=hey%2C+I'm+Aloy+%F0%9F%90%BE;gamer+%E2%80%A2+vibe+coder+%E2%80%A2+cat+%26+bird+lover;building+little+windows+tools+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <p align="center">🐾 ⋆｡°✩ ⋆⁺｡˚ 𐙚 ˚｡⋆ ✩°｡⋆ 🐾</p>
